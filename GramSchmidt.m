@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function B = GramSchmidt(A)
 	% Functia care calculeaza inversa matricii A folosind factorizari Gram-Schmidt
 	% In urma factorizarii QR, A va deveni produs de o matrice ortogonala si una superior triunghiulara,
