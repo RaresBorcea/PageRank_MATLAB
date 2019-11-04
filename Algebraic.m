@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function R = Algebraic(nume, d)
 	% Functia care calculeaza vectorul PageRank folosind varianta algebrica de calcul.
 	% Intrari: 
