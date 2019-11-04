@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function x = SST(A, b)
   % Functia care rezolva un sistem superior triunghiular
   % Intrari:
