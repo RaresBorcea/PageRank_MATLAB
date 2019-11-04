@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function R = Iterative(nume, d, eps)
 	% Functia care calculeaza matricea R folosind algoritmul iterativ.
 	% Intrari:
